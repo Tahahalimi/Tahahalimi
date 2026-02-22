@@ -24,9 +24,10 @@ Computer Science student with experience in robotics competitions, focusing on a
 - **Started in 2025**
 
 ## 💻 Technical Skills
-- **Programming Languages**: Python  
-- **Tools**: Git, SQL, OpenCV  
-- **Areas of Focus**: Backend Development, Robotics, Image Processing
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ## 📫 Contact
 - **Email**: halimitaha85@gmail.com
