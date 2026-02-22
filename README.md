@@ -15,7 +15,7 @@ Computer Science student with experience in robotics competitions, focusing on a
 
 ## 🚀 Projects
 - **Bank CLI System**: Modular banking system with transaction management in Python.  
-- **Drone Robotics Algorithms**: Implemented flight control, navigation, and automation for competitive drones in RoboCup and FIRA competitions.  
+- **Drone Robotics Algorithms**: Implemented flight control, navigation, and automation for competitive drones in FIRA competitions.  
 - **Robotics Image Processing**: Developed vision-based algorithms for object detection and tracking in competitive robotics challenges.  
 - **Algorithm Development**: Optimized algorithms for autonomous robots to improve performance in competitions.
 
